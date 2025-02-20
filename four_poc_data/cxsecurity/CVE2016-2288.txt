@@ -1,0 +1,4 @@
+{
+    "text": "vul_name : Cogent Datahub 7.3.9 Privilege Escalation ， vul_cve : CVE2016-2288 ， vul_poc : / *  ，  # Exploit Title : Cogent Datahub <= 7.3.9 Gamma Script Elevation of Privilege Vulnerability ，  # Google Dork : lol ，  # Date : 28/3/2016 ，  # Exploit Author : mr_me ，  # Vendor Homepage :  ，  # Software Link :  ，  # Version : <= 7.3.9 ，  # Tested on : Windows 7 x86 ，  # CVE : CVE2016-2288 ， sha1sum : c1806faf0225d0c7f96848cb9799b15f8b249792 CogentDataHub-7.3.9-150902-Windows.exe ， Advsiory : ",
+    "time": "2016.03.29"
+}
