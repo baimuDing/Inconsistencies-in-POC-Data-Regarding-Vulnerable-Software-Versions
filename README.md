@@ -9,13 +9,13 @@ The first column of this Excel file is the CVE ID, and the four subsequent colum
 
 >> 该Excel文件的第一列是CVE ID，紧接着的四列（第2至第5列）分别展示了CXSecurity、Exploitdb、Packet Storm Security以及Openwall这四个数据源中，与每个CVE ID相关联的POC报告所提及的受影响软件名称及其版本信息。
 >> 
-![image](https://github.com/baimuDing/Inconsistencies-in-POC-data-on-vulnerable-software-versions/blob/main/1.png)
+![image](https://github.com/baimuDing/Inconsistencies-in-POC-Data-Regarding-Vulnerable-Software-Versions/blob/main/1.png)
 
 The next six columns (from the 6th to the 11th), on the other hand, detail the inconsistencies found between any two data sources regarding the vulnerable software version information associated with the same CVE ID.
 
 >> 而接下来的六列（第6至第11列），则详细记录了任意两个数据源之间，针对同一CVE ID的易受攻击软件版本信息所存在的不一致情况。
 >> 
-![image](https://github.com/baimuDing/Inconsistencies-in-POC-data-on-vulnerable-software-versions/blob/main/2.png)
+![image](https://github.com/baimuDing/Inconsistencies-in-POC-Data-Regarding-Vulnerable-Software-Versions/blob/main/2.png)
 
 ## Type Definitions(类型定义)
 
